@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "axel",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0"
+  }
+}
